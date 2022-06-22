@@ -6,7 +6,7 @@ import { useDirection } from "./hooks/useDirection";
 import { Show } from "./components/Show";
 
 import smartphone from "./assets/smartphone.png";
-import { useEffect, useRef } from "react";
+import { useEffect } from "react";
 
 const rotate = new Animated.Value(0);
 

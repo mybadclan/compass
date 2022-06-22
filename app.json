@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "keep-walking",
-    "slug": "keep-walking",
+    "name": "compass",
+    "slug": "compass",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
